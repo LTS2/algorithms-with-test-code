@@ -1,0 +1,7 @@
+spring:
+  application:
+  name: algorithm-and-test-code
+
+
+server:
+  port: 1234
